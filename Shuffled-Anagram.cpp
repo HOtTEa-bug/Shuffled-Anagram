@@ -1,4 +1,4 @@
-// C++ program to print all
+// C++ program to find Shuffled Anagrams
 // permutations with duplicates allowed
 #include <bits/stdc++.h>
 #include<iostream>
